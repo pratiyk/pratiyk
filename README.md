@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 Welcome to my page <br>
 I am Prateek Shrivastava <br>
 <h3>Where to find me</h3>
