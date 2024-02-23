@@ -2,7 +2,8 @@
 ![title](https://github.com/pratiyk/pratiyk/assets/38837970/440cde9e-c655-4ed0-a158-9f458312c3f8)
 *****
 <p></p>
-<img align="right" alt="GIF" <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/4SjlyrGuMvxxS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/90s-cartoon-network-johnny-bravo-4SjlyrGuMvxxS">via GIPHY</a></p>/>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/4SjlyrGuMvxxS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/90s-cartoon-network-johnny-bravo-4SjlyrGuMvxxS">via GIPHY</a></p>
+
 welcome to my profile. <br> i am a film buff. and currently I am working on building a film recommending system. <br>
 my love for films: https://www.instagram.com/theblahblahblahcompany
 
