@@ -2,7 +2,7 @@
 ![title](https://github.com/pratiyk/pratiyk/assets/38837970/440cde9e-c655-4ed0-a158-9f458312c3f8)
 *****
 <p></p>
-<img align="right" alt="GIF" src="[https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif](https://giphy.com/gifs/90s-cartoon-network-johnny-bravo-4SjlyrGuMvxxS)" />
+<img align="right" alt="GIF" src="[https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif]" />
 welcome to my profile. <br> i am a film buff. and currently I am working on building a film recommending system. <br>
 my love for films: https://www.instagram.com/theblahblahblahcompany
 
