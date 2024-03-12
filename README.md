@@ -10,10 +10,12 @@ movie buff.<br>
 *****
 ### hack the box
 - https://academy.hackthebox.com/achievement/749744/35
+- https://academy.hackthebox.com/achievement/749744/34
 
 
 ### badges & certifications
 - https://academy.hackthebox.com/achievement/badge/9d96e5cf-dade-11ee-891c-bea50ffe6cb4
+- https://academy.hackthebox.com/achievement/badge/a2c24a30-e0b5-11ee-b18d-bea50ffe6cb4
 
 *****
 ### where to find me
