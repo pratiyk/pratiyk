@@ -11,6 +11,7 @@ movie buff.<br>
 ### hack the box
 - https://academy.hackthebox.com/achievement/749744/35
 - https://academy.hackthebox.com/achievement/749744/34
+- https://www.hackthebox.com/achievement/machine/1894647/394
 
 
 ### badges & certifications
