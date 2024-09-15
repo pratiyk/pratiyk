@@ -18,6 +18,7 @@ movie buff.<br>
 ### badges & certifications
 - https://academy.hackthebox.com/achievement/badge/9d96e5cf-dade-11ee-891c-bea50ffe6cb4
 - https://academy.hackthebox.com/achievement/badge/a2c24a30-e0b5-11ee-b18d-bea50ffe6cb4
+- https://academy.hackthebox.com/achievement/badge/d3f14031-73a3-11ef-864f-bea50ffe6cb4
 
 *****
 ### where to find me
